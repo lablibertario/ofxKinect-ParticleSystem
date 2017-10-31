@@ -1,0 +1,17 @@
+<Widget>
+    <Kind>6</Kind>
+    <Name>DEPTH RANGE</Name>
+    <HighValue>255.000000000</HighValue>
+    <LowValue>231.480590820</LowValue>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>BLOB SIZE</Name>
+    <HighValue>136450.484375000</HighValue>
+    <LowValue>2982.524902344</LowValue>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>LIMITADOR</Name>
+    <Value>1</Value>
+</Widget>
